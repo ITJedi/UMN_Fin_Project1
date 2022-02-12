@@ -19,3 +19,5 @@ BTC seems to go through periods of correlation and uncorrelation
 
 I did not find the strategies to be profitable when using all bitcoin data (from 2015).
 
+## Note
+Use Bitcoin_Strats.ipynb for all bitcoin data the was available, stock correlation and dashboard. The other ipynb have different time periods of bitcoin data to see how it changes the results of the strategy (those files have the correlation and dashboard removed for performance).
